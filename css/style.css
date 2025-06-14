@@ -1,6 +1,6 @@
-@import "./css/conteudo.css";
-@import "./css/header.css";
-@import "./info-site.css";
+@import "./conteudo.css";
 @import "./experiencia.css";
-@import "./css/formacao.css";
-@import "./css/footer.css";
+@import "./footer.css";
+@import "./formacao.css";
+@import "./header.css";
+@import "./info-site.css";
